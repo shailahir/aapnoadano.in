@@ -226,7 +226,7 @@
   });
 
   /**
-   * Portfolio details slider
+   * फोटो गैलेरी details slider
    */
   new Swiper('.portfolio-details-slider', {
     speed: 400,
